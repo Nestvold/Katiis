@@ -1,2 +1,3 @@
-# Katiis
+# Kattis
+
 Kattis Problems
