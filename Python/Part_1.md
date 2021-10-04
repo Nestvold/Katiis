@@ -4,7 +4,7 @@
 ### Difficulty: 1.3
 - [x] [Sort Two Numbers](Difiiculty_1.0_to_1.9/Difiiculty_1.3/sort_two_numbers.py)
 - [x] [Solving for Carrot](Difiiculty_1.0_to_1.9/Difiiculty_1.3/solving_for_carrots.py)
-- [x] [Quality-Adjust Life-Year](Difiiculty_1.0_to_1.9/Difiiculty_1.3/quality_adjusted_life_year)
+- [x] [Quality-Adjust Life-Year](Difiiculty_1.0_to_1.9/Difiiculty_1.3/quality_adjusted_life_year.py)
 - [x] [Pot](Difiiculty_1.0_to_1.9/Difiiculty_1.3/Pot.py)
 - [x] [Plania](Difiiculty_1.0_to_1.9/Difiiculty_1.3/planina.py)
 - [x] [Nasty Hacks](Difiiculty_1.0_to_1.9/Difiiculty_1.3/nasty_hacks.py)
